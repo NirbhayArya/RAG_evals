@@ -1,6 +1,6 @@
 {
     "experiment": "experiment_v2_k1",
-    "retriever_k": 3,
+    "retriever_k": 1,
     "number_of_test_cases": 20,
     "metrics": {
         "answer_relevancy": 1.0,
